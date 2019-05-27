@@ -1,7 +1,6 @@
 package com.twenk11k.mvvmtemplate.ui.viewmodel;
 
 import androidx.lifecycle.LiveData;
-
 import com.twenk11k.mvvmtemplate.data.api.repository.PhotoRepository;
 import com.twenk11k.mvvmtemplate.data.model.FlickrRecent;
 import com.twenk11k.mvvmtemplate.utils.rx.SchedulerProvider;

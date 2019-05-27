@@ -5,10 +5,6 @@ import androidx.lifecycle.MutableLiveData;
 import com.twenk11k.mvvmtemplate.data.api.retrofit.ApiService;
 import com.twenk11k.mvvmtemplate.data.model.FlickrRecent;
 import com.twenk11k.mvvmtemplate.data.remote.RetrofitClient;
-
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
 import rx.Subscriber;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
